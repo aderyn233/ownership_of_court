@@ -1,4 +1,4 @@
-## ownership_of_court
+# ownership_of_court
 用于计算bj8z高二羽毛球场归属
 
 ### 开发环境
