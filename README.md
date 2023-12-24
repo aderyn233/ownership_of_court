@@ -4,12 +4,23 @@
 ## 开发环境
 python3.8.8
 
+prettytable==3.9.0
+
 macOS12.5
 
 IDE：PyCharm 2023.2.2 (Professional Edition)
 
 ## 使用
-**运行前需要安装python3环境**
+**运行前需要安装python3环境和prettytable**
+
+安装好python之后，用如下命令安装prettytable：
+
+```
+# Windows
+pip install prettytable==3.9.0
+# macOS & linux
+pip3 install prettytable==3.9.0
+```
 
 运行`mian.py`即可，程序会先输出最近两周的场地安排表格，然后可以查询任意基准时间以后的场地归属
 
