@@ -9,7 +9,7 @@ macOS12.5
 IDE：PyCharm 2023.2.2 (Professional Edition)
 
 ## 使用
-**运行前需要python3环境**
+**运行前需要安装python3环境**
 
 运行`mian.py`即可，程序会先输出最近两周的场地安排表格，然后可以查询任意2023-11-20以后时间的场地归属
 
