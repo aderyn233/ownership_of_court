@@ -93,7 +93,7 @@ if __name__ == '__main__':
     get_this_and_next_week()
     content = '''使用前请阅读README.md
 查询格式为xxxx-xx-xx，例如2024-01-03
-仅支持查询2023-11-20日后的时间表（查询2023-11-20之前的会出现负数班级，待完善）
+仅支持查询基准日期后的时间表（查询基准日期之前的会出现负数班级，待完善）
 请输入查询日期：'''
     query_date = input(content)
     try:
